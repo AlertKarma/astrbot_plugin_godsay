@@ -104,17 +104,23 @@ git clone 你的仓库地址
 
 ---
 
-## 👥 作者与贡献者
+## 📌 项目来源
 
-### 原项目作者
+本项目基于以下开源项目二次开发：
 
-- **Foolllll-J**
-  - 原项目：
-    https://github.com/Foolllll-J/astrbot_plugin_genshinimpact
+1. 初始项目：
+   - 作者：ましろSaber
+   - 地址：
+     https://github.com/MashiroSaber03/genshinimpact
 
-### 二次开发维护
+2. 后续开发项目：
+   - 作者：Foolllll-J
+   - 地址：
+     https://github.com/Foolllll-J/astrbot_plugin_genshinimpact
 
-- **AlertKArma**
+3. 当前维护版本：
+   - 作者：AlertKArma
+   - 在上述项目基础上继续开发与维护
 
 ---
 
