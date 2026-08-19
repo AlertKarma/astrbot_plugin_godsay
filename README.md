@@ -112,7 +112,7 @@ git clone https://github.com/AlertKarma/astrbot_plugin_godsay
   - 项目链接：
     https://github.com/Foolllll-J/astrbot_plugin_genshinimpact
 
-- AlertKArma
+- [AlertKarma](https://github.com/AlertKarma)
 
 ---
 
