@@ -102,5 +102,3 @@ git clone https://github.com/AlertKarma/astrbot_plugin_godsay
 <div align="center">
 
 ⭐ 欢迎 Star 支持项目持续更新 ⭐
-
-</div>
