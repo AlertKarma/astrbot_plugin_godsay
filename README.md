@@ -1,4 +1,4 @@
-# 🎮 AstrBot 群聊圣经增强版
+# 🎮 AstrBot 群聊圣经
 
 > 基于 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 的群聊随机语录回复插件  
 > 本项目基于 [Foolllll-J/astrbot_plugin_genshinimpact](https://github.com/Foolllll-J/astrbot_plugin_genshinimpact) 二次开发，在原项目基础上增加更多自定义功能，让群聊充满欢乐与惊喜 ✨
@@ -6,22 +6,6 @@
 ![License](https://img.shields.io/badge/license-AGPL--3.0-green?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.10+-blue?style=flat-square&logo=python&logoColor=white)
 ![AstrBot](https://img.shields.io/badge/framework-AstrBot-ff6b6b?style=flat-square)
-
----
-
-## 📌 项目来源
-
-本项目基于：
-
-- 原项目：
-  [astrbot_plugin_genshinimpact](https://github.com/Foolllll-J/astrbot_plugin_genshinimpact)
-
-- 原作者：
-  **Foolllll-J**
-
-感谢原作者提供的基础框架与实现思路。
-
-本版本由 **AlertKArma** 在原项目基础上进行二次开发与维护。
 
 ---
 
