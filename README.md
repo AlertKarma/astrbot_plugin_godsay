@@ -1,4 +1,4 @@
-# AstrBot 原神 & 本人圣经插件
+# AstrBot 群聊圣经插件
 
 基于 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 的多关键词随机语录回复插件。  
 支持两组独立触发词、随机回复、共享冷却，并可配置完全匹配时忽略冷却。
