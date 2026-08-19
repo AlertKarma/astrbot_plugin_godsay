@@ -106,13 +106,15 @@ git clone 你的仓库地址
 
 ## 👥 作者与贡献者
 
-- **ましろSaber**
-- https://github.com/MashiroSaber03/genshinimpact
-- [Foolllll-J](https://github.com/Foolllll-J)
-  - 项目链接：https://github.com/Foolllll-J/astrbot_plugin_genshinimpact
+- [ましろSaber](https://github.com/MashiroSaber03)
+  - 项目链接：
+    https://github.com/MashiroSaber03/genshinimpact
 
-- [AlertKArma](https://github.com/你的GitHub用户名)
-  - 项目链接：https://github.com/你的GitHub用户名/你的仓库名
+- [Foolllll-J](https://github.com/Foolllll-J)
+  - 项目链接：
+    https://github.com/Foolllll-J/astrbot_plugin_genshinimpact
+
+- AlertKArma
 
 ---
 
