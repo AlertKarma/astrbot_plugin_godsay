@@ -1,6 +1,6 @@
 name: astrbot_plugin_godsay
 display_name: 群聊圣经
 desc: 基于 AstrBot 的群聊圣经随机语录回复插件，支持自定义关键词、多圣经内容匹配和随机回复。
-version: v1.0.0
+version: v1.0.1
 author: ましろSaber & Foolllll-J & AlertKArma
 repo: https://github.com/AlertKarma/astrbot_plugin_godsay
